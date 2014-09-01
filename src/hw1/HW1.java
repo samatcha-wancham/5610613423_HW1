@@ -29,8 +29,8 @@ public class HW1 {
         int temp =0;
         int sum = 0;
         int sum1 = 0;
-        int a=0;
-        int total=0;
+       
+    
      
        
         IncomeRange = new int[4];
